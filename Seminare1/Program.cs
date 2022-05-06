@@ -7,6 +7,6 @@
 */
 
 Console.WriteLine("Введите число");
-int namber = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine(namber * namber);
-Console.w
+int number = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(number * number);
+Console.Write();
