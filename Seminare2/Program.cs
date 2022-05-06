@@ -5,11 +5,11 @@
 */
 
 Console.WriteLine("Введите число:");
-int namber = Convert.ToInt32(Console.ReadLine());
-for (int i = - namber; i <= namber; i++)
+int number = Convert.ToInt32(Console.ReadLine());
+for (int i = - number; i <= number; i++)
 {
     Console.Write(i);
-    if (i != namber)
+    if (i != number)
 {
     Console.Write(", ");
 }
